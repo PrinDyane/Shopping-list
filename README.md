@@ -1,6 +1,5 @@
 # Shopping List
 
-
 Simple shopping list application to add and remove items.
 
 **Features:**
@@ -21,7 +20,7 @@ Follow the steps:
 - Clone the repository
 
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/PrinDyane/Shopping-list
 
 - access repository-name
     ```bash
